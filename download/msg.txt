@@ -1,2 +1,2 @@
 
-https://raw.githubusercontent.com/lxwAsm/myexe/master/download/1.jpg,hello.jpg
+https://raw.githubusercontent.com/lxwAsm/myexe/master/download/1.jpg,C:\Users\lxw\Desktop\2.jpg
