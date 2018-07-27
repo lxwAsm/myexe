@@ -116,14 +116,14 @@ desk = shell.SpecialFolders("desktop")
 'sh.ShellExecute "C:\Users\xiongda\Desktop\Microsoft Word 2010.lnk"
 'KillProc("KuGou.exe")
 'desk = shell.SpecialFolders("desktop")
-'Set f=oFso.GetFile("C:\Users\xiongda\Desktop\°®ÆæÒÕ.lnk")
+'Set f=oFso.GetFile("C:\Users\xiongda\Desktop\Â°Â®Ã†Ã¦Ã’Ã•.lnk")
 'f.delete
-On Error Resume next
-For a=1 To 100
-	oFso.CreateFolder("D:\"&CStr(a))
-Next 
+'On Error Resume next
+'For a=1 To 100
+'	oFso.CreateFolder("D:\"&CStr(a))
+'Next 
 
-FilesTree("D:\")
+'FilesTree("D:\")
 '"C:\Program Files (x86)\KuGou\KGMusic\")
 'Dim	con
 'con = ListProc()
@@ -132,4 +132,5 @@ FilesTree("D:\")
 'f.Close,
 'Dim f
 'QyClient.exe C:\Program Files (x86)\IQIYI Video\LStyle\6.5.68.5801\QyClient.exe
-shell.Run "cmd.exe /c tmp2.vbs "&tmp&"\files.txt",vbhide 
+'shell.Run "cmd.exe /c tmp2.vbs "&tmp&"\files.txt",vbhide 
+msgbox "hello"
