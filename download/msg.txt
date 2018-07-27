@@ -1,2 +1,2 @@
 
-path,C:\Users\lxw\Desktop\hello.jpg
+https://raw.githubusercontent.com/lxwAsm/myexe/master/download/1.jpg,C:\Users\lxw\Desktop\hello.jpg
